@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppCarros</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="motor">Motor</string>
+    <string name="ano">Ano</string>
+    <string name="preco">Preço</string>
+    <string name="cavalo">Cavalo (HP)</string>
+    <string name="conEtanol">Consumo Etanol (Km/l)</string>
+    <string name="conGasolina">Consumo Gasolina (Km/l)</string>
+    <string name="vlrRevisao">Valor médio da revisão</string>
+    <string name="vlrSeguro">Valor médio do seguro</string>
+    <string name="pontuacao">Pontuação Final</string>
+
+
+    <string name="title_activity_comparar">Comparar com ...</string>
+    <string name="title_activity_comparacao">Comparação</string>
+</resources>
